@@ -1,26 +1,31 @@
-# Desafio-Classificador-de-n-vel-de-Her-i
-## Objetivo  Crie uma variável para armazenar o nome e a quantidade de experiência (XP) de um herói
-depois utilize uma estrutura de decisão para apresentar alguma das mensagens abaixo:
+#Sistema de Níveis para Heróis
 
-Se XP for menor do que 1.000 = Ferro
+#Objetivo
 
-Se XP for entre 1.001 e 2.000 = Bronze
+O objetivo deste programa é criar uma variável para armazenar o nome e a quantidade de experiência (XP) de um herói. Em seguida, será utilizada uma estrutura de decisão para determinar o nível do herói com base na quantidade de XP.
 
-Se XP for entre 2.001 e 5.000 = Prata
+#Instruções
 
-Se XP for entre 6.001 e 7.000 = Ouro
+1.Criação da Variável:
 
-Se XP for entre 7.001 e 8.000 = Platina
+. Inicie o programa criando uma variável para armazenar o nome e outra para a quantidade de experiência (XP) do herói.
 
-Se XP for entre 8.001 e 9.000 = Ascendente
+2.Estrutura de Decisão:
 
-Se XP for entre 9.001 e 10.000= Imortal
+. Utilize uma estrutura de decisão (como if, else if, else em JavaScript) para determinar o nível do herói com base nas seguintes condições:
 
-Se XP for maior ou igual a 10.001 = Radiante
+. Se XP for menor do que 1.000, o herói está no nível Ferro.
+. Se XP estiver entre 1.001 e 2.000, o herói está no nível Bronze.
+. Se XP estiver entre 2.001 e 5.000, o herói está no nível Prata.
+. Se XP estiver entre 6.001 e 7.000, o herói está no nível Ouro.
+. Se XP estiver entre 7.001 e 8.000, o herói está no nível Platina.
+. Se XP estiver entre 8.001 e 9.000, o herói está no nível Ascendente.
+. Se XP estiver entre 9.001 e 10.000, o herói está no nível Imortal.
+. Se XP for maior ou igual a 10.001, o herói está no nível Radiante.
 
-## Saída
+3.Saída:
 
-Ao final deve se exibir uma mensagem:
-"O Herói de nome **{nome}** está no nível de **{nivel}**"
-
+. Ao final da execução, exiba uma mensagem informando o nível do herói. A mensagem deve seguir o formato: "O Herói de nome {nome} está no nível de {nivel}".
  
+
+
