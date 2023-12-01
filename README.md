@@ -6,11 +6,11 @@ O objetivo deste programa é criar uma variável para armazenar o nome e a quant
 
 # Instruções
 
-1.Criação da Variável:
+1. Criação da Variável:
 
 . Inicie o programa criando uma variável para armazenar o nome e outra para a quantidade de experiência (XP) do herói.
 
-2.Estrutura de Decisão:
+2. Estrutura de Decisão:  
 
 . Utilize uma estrutura de decisão (como if, else if, else em JavaScript) para determinar o nível do herói com base nas seguintes condições:
 
@@ -30,7 +30,7 @@ O objetivo deste programa é criar uma variável para armazenar o nome e a quant
 
 . Se XP for maior ou igual a 10.001, o herói está no nível Radiante.
 
-3.Saída:
+3. Saída:
 
 . Ao final da execução, exiba uma mensagem informando o nível do herói. A mensagem deve seguir o formato: "O Herói de nome {nome} está no nível de {nivel}".
  
