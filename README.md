@@ -1,10 +1,10 @@
-#Sistema de Níveis para Heróis
+# Sistema de Níveis para Heróis
 
-#Objetivo
+# Objetivo 
 
 O objetivo deste programa é criar uma variável para armazenar o nome e a quantidade de experiência (XP) de um herói. Em seguida, será utilizada uma estrutura de decisão para determinar o nível do herói com base na quantidade de XP.
 
-#Instruções
+# Instruções
 
 1.Criação da Variável:
 
